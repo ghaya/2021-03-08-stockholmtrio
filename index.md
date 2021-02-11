@@ -105,10 +105,7 @@ address.
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
-  or
-  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  Registered participants will be sent a Zoom link.
 </p>
 {% endif %}
 
