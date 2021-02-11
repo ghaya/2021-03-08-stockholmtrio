@@ -485,7 +485,7 @@ please preview your site before committing, and make sure to run
     <a href="https://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
     statistical analysis. To interact with R, we use
-    <a href="https://www.rstudio.com/">RStudio</a>. If you have previously installed Anaconda, you already have RStudio as a part of that package.
+    <a href="https://www.rstudio.com/">RStudio</a>. If you have previously installed <strong>Anaconda</strong>, you already have RStudio as a part of that package.
   </p>
 
   <div>
