@@ -8,7 +8,7 @@ country: "se"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: ""       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "March 8,10,11 & 18, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "09:30 - 15:00 <br/><a href=''>GooglE</a>"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "09:30 - 15:00 <br/><a href='https://kib.ki.se/en/node/62105/register'>Registration form (open to affiliates of KTH, KI & SU)</a>"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-03-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-03-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Rosa Lönneborg, Joakim Philipson, Lina Andrén, Stefan Wiens, Thomas Lind, Glenn Haya"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
