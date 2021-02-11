@@ -130,7 +130,10 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
-
+<p id="registration">
+<a href='https://kib.ki.se/en/node/62105/register'>Registration form (open to affiliates of KTH, KI & SU)</a>
+</p>  
+  
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
