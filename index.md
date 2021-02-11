@@ -11,7 +11,7 @@ humandate: "March 8,10,11 & 18, 2021"    # human-readable dates for the workshop
 humantime: "09:30 - 15:00 <br/><a href='https://kib.ki.se/en/node/62105/register'>Registration form (open to affiliates of KTH, KI & SU)</a>"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-03-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-03-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Rosa Lönneborg, Joakim Philipson, Lina Andrén, Stefan Wiens, Thomas Lind, Glenn Haya"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["<a href='https://www.kth.se/profile/rosa'>Rosa Lönneborg</a>, <a href='https://www.su.se/profiles/joph9849-1.298028'>Joakim Philipson</a>, <a href='https://www.kth.se/profile/linaandr'>Lina Andrén</a>, <a href='https://www.su.se/profiles/swiens-1.184142'>Stefan Wiens</a>, <a href='https://www.kth.se/profile/tholind'>Thomas Lind</a>, <a href='https://medarbetare.ki.se/people/glehay'>Glenn Haya</a>"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["glenn.haya@ĸi.se"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2021-03-08-stockholmtrio         # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -150,23 +150,6 @@ ACCESSIBILITY
 Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
-<p id="accessibility">
-  <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-  The workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
-</p>
 
 {% comment %}
 CONTACT EMAIL ADDRESS
